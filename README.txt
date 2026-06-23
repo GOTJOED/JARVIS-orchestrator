@@ -34,4 +34,4 @@ Linux: bash JARVIS.sh
 
 Windows: Right-click JARVIS.ps1 -> "Run with PowerShell"
 
-Maintained by GOT JOED. Bringing robust AI tools to any environment.
+Maintained by GOT JOED.
