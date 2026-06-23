@@ -12,8 +12,6 @@ Hardware Profiling: Detects your CPU threads and NVIDIA GPU capabilities.
 
 Adaptive Layer Offloading: Calculates exactly how many model layers to put into your VRAM to prevent system crashes.
 
-Offline Dependency Injection: If you are running on an air-gapped system, it detects the offline_deps folder and automatically patches the compiler environment (GCC/Make) so that GPU acceleration can be built locally.
-
 Llamafile Normalization: Automatically handles binary permissions and environment variables to ensure llamafile runs seamlessly on SUSE or other Linux distributions.
 
 JARVIS.ps1 (Windows Automation)
